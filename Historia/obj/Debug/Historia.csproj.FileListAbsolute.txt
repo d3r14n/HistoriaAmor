@@ -1,0 +1,10 @@
+C:\Users\DerianJair\Desktop\Creaciones\CSharp\Historia\Historia\bin\Debug\Historia.exe.config
+C:\Users\DerianJair\Desktop\Creaciones\CSharp\Historia\Historia\bin\Debug\Historia.exe
+C:\Users\DerianJair\Desktop\Creaciones\CSharp\Historia\Historia\bin\Debug\Historia.pdb
+C:\Users\DerianJair\Desktop\Creaciones\CSharp\Historia\Historia\obj\Debug\Historia.csprojResolveAssemblyReference.cache
+C:\Users\DerianJair\Desktop\Creaciones\CSharp\Historia\Historia\obj\Debug\Historia.menu.resources
+C:\Users\DerianJair\Desktop\Creaciones\CSharp\Historia\Historia\obj\Debug\Historia.historia.resources
+C:\Users\DerianJair\Desktop\Creaciones\CSharp\Historia\Historia\obj\Debug\Historia.Properties.Resources.resources
+C:\Users\DerianJair\Desktop\Creaciones\CSharp\Historia\Historia\obj\Debug\Historia.csproj.GenerateResource.Cache
+C:\Users\DerianJair\Desktop\Creaciones\CSharp\Historia\Historia\obj\Debug\Historia.exe
+C:\Users\DerianJair\Desktop\Creaciones\CSharp\Historia\Historia\obj\Debug\Historia.pdb
